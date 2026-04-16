@@ -32,7 +32,7 @@ air_quality_project/
 ## Installation
 
 ```bash
-git clone https://github.com/ton-utilisateur/air-quality-prediction.git
+git clone https://github.com/mouhamedx74/air-quality-prediction.git
 cd air-quality-prediction
 pip install -r requirements.txt
 ```
